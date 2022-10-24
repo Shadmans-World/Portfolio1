@@ -1,0 +1,74 @@
+
+body{
+    font-family: sans-serif;
+}
+.banner-container{
+    background-color: bisque;
+}
+
+ .banner-column{
+    background-color: #876464;
+    /* margin-left: 50px;
+    margin-right: 50px; */
+ }
+
+ .about-container{
+    background-color: blueviolet;
+ }
+ .img-fluid{
+    height: 50vh;    
+    width: 50vh;
+    /* border-radius: 50px; */
+}
+.education-container{
+    background-color: blanchedalmond;
+}
+.redtypecolor{
+    color: red;
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: red;
+}
+.white{
+   color: white;
+  
+}
+
+#prclr{
+    color: white;
+}
+
+.project-container{
+    background-color:whitesmoke;
+    
+}
+
+
+
+.contact-container{
+    background-color: dimgray
+}
+
+.font{
+    font-size: 72px;
+}
+
+.pk{
+    display: inline-block;
+}
+
+input:hover{
+    background-color: black;
+   
+}
+textarea:hover{
+    background-color: black;
+}
+button:hover{
+    color: red;
+}
+
