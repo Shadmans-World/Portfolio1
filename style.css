@@ -71,4 +71,12 @@ textarea:hover{
 button:hover{
     color: red;
 }
+#footer {
+    width: 100%;
+    margin: 0;
+    background-color: blanchedalmond;
+    padding: 2px;
+    
+
+}
 
